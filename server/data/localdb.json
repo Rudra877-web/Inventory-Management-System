@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "_id": "qx1qn95bl",
+      "createdAt": "2026-06-27T12:25:02.699Z",
+      "updatedAt": "2026-06-27T12:25:02.702Z",
+      "name": "System Administrator",
+      "email": "admin@investly.com",
+      "password": "$2a$10$HENIT1SD9ZIhI37sEcBNme0zyAH/bUcD9YtgTvnJzGVWAPgLUKq9q",
+      "role": "admin",
+      "isVerified": true,
+      "kycStatus": "Approved",
+      "balance": 10000000
+    },
+    {
+      "_id": "sfnnuv1lr",
+      "createdAt": "2026-06-27T12:31:45.221Z",
+      "updatedAt": "2026-06-27T12:31:45.221Z",
+      "name": "Alex Mercer",
+      "email": "investor_demo@investly.com",
+      "password": "$2a$10$2975dMoZFr3zB6ohyJuZXOLZcpBxnOOD5w4Ff1yfDzt8GYnkeU8fW",
+      "isVerified": true,
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=100&q=80"
+    },
+    {
+      "_id": "uadrjs986",
+      "createdAt": "2026-06-27T12:32:31.857Z",
+      "updatedAt": "2026-06-27T12:33:50.712Z",
+      "name": "Rudra",
+      "email": "btwrudra@gmail.com",
+      "password": "$2a$10$T28tX/NLK3WD9dgG28y7N.XgiTxMHvQ8LblYkRHHdX0Rpd1OxwNle",
+      "verificationToken": null,
+      "isVerified": true
+    }
+  ],
+  "investments": [],
+  "transactions": [],
+  "goals": [],
+  "notifications": [],
+  "kyc": [],
+  "watchlists": [],
+  "activityLogs": []
+}
