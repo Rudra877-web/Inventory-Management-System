@@ -1,19 +1,8 @@
-# Dependencies
-frontend/node_modules/
-backend/node_modules/
+client/node_modules/
+server/node_modules/
 
-# Environment files
-frontend/.env
-backend/.env
-frontend/.env.*
-backend/.env.*
+client/.env
+server/.env
 
-# Build files
-frontend/dist/
-frontend/build/
-backend/dist/
-backend/build/
-
-# Logs
-*.log
-npm-debug.log*
+node_modules/
+.env
